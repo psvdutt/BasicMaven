@@ -77,12 +77,12 @@
   <distributionManagement>
     <repository>
       <id>deploymentr</id>
-      <url>http://34.70.75.119:8081/repository/SAMPLE-REL/</url>
+      <url>http://35.225.244.145:8081/repository/SAMPLE-REL/</url>
     </repository>
     
     <snapshotRepository>
       <id>deployments</id>
-      <url>http://34.70.75.119:8081/repository/SAMPLE-SNAP/</url>
+      <url>http://35.225.244.145:8081/repository/SAMPLE-SNAP/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
