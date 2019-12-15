@@ -75,14 +75,9 @@
     </pluginManagement>
   </build>
   <distributionManagement>
-    <repository>
-      <id>deploymentr</id>
-      <url>http://35.225.244.145:8081/repository/SAMPLE-REL/</url>
-    </repository>
-    
     <snapshotRepository>
       <id>deployments</id>
-      <url>http://35.225.244.145:8081/repository/SAMPLE-SNAP/</url>
+      <url>http://35.225.244.145:8081/repository/S-SNAP/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
